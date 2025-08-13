@@ -27,7 +27,7 @@ A portfolio-ready Task Manager web app built with Django and Bootstrap 5.
 4. Visit: http://127.0.0.1:8000
 
 ## Live Demo
-- URL: REPLACE_WITH_DEPLOYED_URL
+- URL: https://YOUR-SERVICE-NAME.onrender.com
 
 ## Screenshots
 - `screenshots/home.png`
